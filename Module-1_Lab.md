@@ -27,3 +27,8 @@ gcc sum1ton.c
 ### Output
 Sum from 1 to 100 is 5050
 
+### Screenshot
+
+![Lab 1 – Sum Program Execution](screenshots/lab1_sum_execution.png)
+
+
