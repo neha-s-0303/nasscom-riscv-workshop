@@ -15,6 +15,7 @@ int main() {
     printf("Sum from 1 to %d is %d\n", n, sum);
     return 0;
 }
+` ``` `
 
 ###Commands Used
 gcc sum1ton.c
