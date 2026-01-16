@@ -17,9 +17,12 @@ int main() {
 }
  ```
 
+
 ### Commands Used
+```bash
 gcc sum1ton.c
 ./a.out
+```
 
 ### Output
 Sum from 1 to 9 is 45
