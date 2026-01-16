@@ -31,6 +31,9 @@ Sum from 1 to 100 is 5050
 
 ![Lab 1 – Sum Program Execution](screenshots/lab1_sum_execution.png)
 
+### Observation
+The C program was successfully compiled and executed using the GNU compiler toolchain. The loop correctly iterates from 1 to N and accumulates the sum of the integers. The output obtained from the program matches the expected mathematical result, confirming the correct functioning of the compiler, execution environment, and program logic.
+
 ## Lab 2: RISC-V GCC Compile and Disassemble
 
 ### Objective
