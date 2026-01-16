@@ -8,7 +8,7 @@ To write and execute a C program using the RISC-V GNU compiler toolchain to comp
 #include <stdio.h>
 
 int main() {
-    int i, sum = 0, n = 9;
+    int i, sum = 0, n = 100;
     for (i = 1; i <= n; i++) {
         sum += i;
     }
@@ -25,5 +25,5 @@ gcc sum1ton.c
 ```
 
 ### Output
-Sum from 1 to 9 is 45
+Sum from 1 to 100 is 5050
 
