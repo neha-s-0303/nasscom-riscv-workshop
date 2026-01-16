@@ -16,10 +16,10 @@ int main() {
     return 0;
 }
 
-##Commands Used
+###Commands Used
 gcc sum1ton.c
 ./a.out
 
-#Output
+###Output
 Sum from 1 to 9 is 45
 
